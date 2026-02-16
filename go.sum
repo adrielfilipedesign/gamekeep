@@ -1,0 +1,4 @@
+fyne.io/fyne/v2 v2.7.2 h1:XiNpWkn0PzX43ZCjbb0QYGg1RCxVbugwfVgikWZBCMw=
+fyne.io/fyne/v2 v2.7.2/go.mod h1:PXbqY3mQmJV3J1NRUR2VbVgUUx3vgvhuFJxyjRK/4Ug=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
