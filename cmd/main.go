@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"text/tabwriter"
 
-	"github.com/gamekeep/gamekeep/internal/core"
-	"github.com/gamekeep/gamekeep/internal/storage"
-	"github.com/gamekeep/gamekeep/internal/vault"
+	"github.com/adrielfilipedesign/gamekeep/internal/core"
+	"github.com/adrielfilipedesign/gamekeep/internal/storage"
+	"github.com/adrielfilipedesign/gamekeep/internal/vault"
 )
 
 const (
@@ -294,7 +294,7 @@ EXAMPLES:
 
 NOTE: For GUI interface, run 'gamekeep-gui' instead.
 
-For more information, visit: https://github.com/gamekeep/gamekeep
+For more information, visit: https://github.com/adrielfilipedesign/gamekeep
 `, version)
 }
 

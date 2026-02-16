@@ -6,8 +6,8 @@ import (
 	"fyne.io/fyne/v2/layout"
 	"fyne.io/fyne/v2/widget"
 
-	"github.com/gamekeep/gamekeep/internal/core"
-	"github.com/gamekeep/gamekeep/internal/models"
+	"github.com/adrielfilipedesign/gamekeep/internal/core"
+	"github.com/adrielfilipedesign/gamekeep/internal/models"
 )
 
 // MainUI is the main application UI controller

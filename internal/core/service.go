@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/gamekeep/gamekeep/internal/models"
-	"github.com/gamekeep/gamekeep/internal/storage"
-	"github.com/gamekeep/gamekeep/internal/vault"
+	"github.com/adrielfilipedesign/gamekeep/internal/models"
+	"github.com/adrielfilipedesign/gamekeep/internal/storage"
+	"github.com/adrielfilipedesign/gamekeep/internal/vault"
 )
 
 // Service handles core business logic

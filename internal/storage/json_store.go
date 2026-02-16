@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/gamekeep/gamekeep/internal/models"
+	"github.com/adrielfilipedesign/gamekeep/internal/models"
 )
 
 // MetadataStore defines the interface for storing and retrieving metadata

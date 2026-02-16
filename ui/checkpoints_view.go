@@ -8,7 +8,7 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/widget"
 
-	"github.com/gamekeep/gamekeep/internal/models"
+	"github.com/adrielfilipedesign/gamekeep/internal/models"
 )
 
 // CheckpointsView handles the checkpoints display
